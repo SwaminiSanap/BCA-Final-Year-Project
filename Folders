@@ -1,0 +1,16 @@
+swami-samarth-transport/
+│
+├── app.py
+├── database.db
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+└── README.md
